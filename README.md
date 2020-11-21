@@ -67,7 +67,7 @@ On August 31, 2020 I committed to #100DaysOfFrontEnd where I’ll be sharing eve
 ![project image](13.png)
 
 ### Day 17:
-**Today's Progress**:Responsive web Design Certification (freeCodeCamp)
+**Today's Progress**: **Responsive web Design Certification (freeCodeCamp)**
 ![project image](14.png)
 
 ## Day 18:
