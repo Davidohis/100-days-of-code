@@ -77,3 +77,7 @@ On August 31, 2020 I committed to #100DaysOfFrontEnd where I’ll be sharing eve
 ## Day 19:
 **Today's Progress**: 
 ![project image](16.png)
+
+## Day 20:
+**Today's Progress**: 
+![project image](17.png)
